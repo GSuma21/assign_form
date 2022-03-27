@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+form{
+  width: 40%;
+  position: relative;
+  margin: auto;
+  line-height: 1.9;
+}
+.details{
+  width: 80%;
+  margin: 20px auto;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+.details table {
+  border: 1px solid #ccc;
+  width: 100%;
+}
+.details table tr{
+  border: 1px solid #ccc;
+}
+.details table th{
+  border: 1px solid #ccc;
+}
+.details table tr td{
+  border: 1px solid #ccc;
+}

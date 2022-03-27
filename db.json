@@ -1,0 +1,40 @@
+{
+  "details": [
+    {
+      "name": "G Suma",
+      "age": "23",
+      "address": "Nandolli",
+      "department": "IT",
+      "salary": "23",
+      "isMarried": false,
+      "id": 1
+    },
+    {
+      "name": "Yogesh",
+      "age": "47",
+      "address": "bengalore",
+      "department": "Marketing",
+      "salary": "50",
+      "isMarried": true,
+      "id": 2
+    },
+    {
+      "name": "karun",
+      "age": "66",
+      "address": "bengalore",
+      "department": "Civil",
+      "salary": "80",
+      "isMarried": true,
+      "id": 3
+    },
+    {
+      "name": "sakshi",
+      "age": "22",
+      "address": "delhi",
+      "department": "Electronics",
+      "salary": "20",
+      "isMarried": true,
+      "id": 4
+    }
+  ]
+}
